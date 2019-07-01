@@ -8,7 +8,7 @@
 ```bash
 # Install dependencies (server & client)
 npm install
-cd client && npm install
+cd client && npm install 
 
 # Run server & client (:3000 & :5000)
 npm run dev
@@ -39,3 +39,4 @@ Brad Traversy
 ### License
 
 This project is licensed under the MIT License
+
